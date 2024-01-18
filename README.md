@@ -20,7 +20,7 @@ In response to the increasing demand for actionable insights into sales performa
 **Action:**
 Employing Python libraries such as Pandas, NumPy, and Matplotlib within the Jupyter Notebook environment, I conducted thorough exploratory data analysis. This involved cleaning and preprocessing the sales data, identifying outliers, and creating visualizations to better understand the sales dynamics.
 
-Furthermore, I implemented statistical techniques to derive meaningful insights, such as customer segmentation, product performance analysis, and sales forecasting. The use of advanced analytics allowed for a nuanced understanding of factors influencing sales, enabling more targeted and informed strategies.
+Furthermore, I implemented statistical techniques to derive meaningful insights, such as univariate analysis, bivariate analysis, multivariate analysis, customer segmentation, product performance analysis, and sales forecasting. The use of advanced analytics allowed for a nuanced understanding of factors influencing sales, enabling more targeted and informed strategies.
 
 **Result:**
 The outcome of the analysis provided a holistic view of the sales landscape, pinpointing areas of strength and areas for improvement. Through visually intuitive dashboards and detailed reports, stakeholders gained actionable insights to enhance sales strategies, optimize product offerings, and ultimately drive revenue growth.
